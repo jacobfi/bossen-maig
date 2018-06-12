@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="399.74316"
+   height="607.86328"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="277.4072"
+     inkscape:cy="297.78181"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-65.71875,-95.286896)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="501.42856"
+           height="594.28571"
+           x="75.714287"
+           y="103.79076" /></flowRegion><flowPara
+         id="flowPara2991">      &lt;!--******************************--&gt;</flowPara><flowPara
+         id="flowPara2993">      &lt;!--     Segment 4                --&gt;</flowPara><flowPara
+         id="flowPara2995">      &lt;!--******************************--&gt;</flowPara><flowPara
+         id="flowPara2997">      &lt;section name=&quot;curve 20&quot;&gt;</flowPara><flowPara
+         id="flowPara2999">        &lt;attstr name=&quot;type&quot; val=&quot;lft&quot; /&gt;</flowPara><flowPara
+         id="flowPara3001">        &lt;attnum name=&quot;arc&quot; unit=&quot;deg&quot; val=&quot;40.0&quot; /&gt;</flowPara><flowPara
+         id="flowPara3003">        &lt;attnum name=&quot;radius&quot; unit=&quot;m&quot; val=&quot;90.0&quot; /&gt;</flowPara><flowPara
+         id="flowPara3005">        &lt;attnum name=&quot;end radius&quot; unit=&quot;m&quot; val=&quot;115.0&quot; /&gt;</flowPara><flowPara
+         id="flowPara3007">        &lt;attnum name=&quot;profil steps length&quot; unit=&quot;m&quot; val=&quot;4.0&quot; /&gt;</flowPara><flowPara
+         id="flowPara3009">        &lt;attnum name=&quot;z end&quot; unit=&quot;m&quot; val=&quot;-1.5&quot; /&gt;</flowPara><flowPara
+         id="flowPara3011">        &lt;!--Left part of segment--&gt;</flowPara><flowPara
+         id="flowPara3013">        &lt;section name=&quot;Left Side&quot;&gt;</flowPara><flowPara
+         id="flowPara3015">          &lt;attnum name=&quot;start width&quot; unit=&quot;m&quot; val=&quot;4.0&quot; /&gt;</flowPara><flowPara
+         id="flowPara3017">          &lt;attnum name=&quot;end width&quot; unit=&quot;m&quot; val=&quot;2.0&quot; /&gt;</flowPara><flowPara
+         id="flowPara3019">          &lt;attstr name=&quot;surface&quot; val=&quot;tr-road1&quot; /&gt;</flowPara><flowPara
+         id="flowPara3021">        &lt;/section&gt;</flowPara><flowPara
+         id="flowPara3023">        &lt;section name=&quot;Left Border&quot;&gt;</flowPara><flowPara
+         id="flowPara3025">          &lt;attnum name=&quot;width&quot; unit=&quot;m&quot; val=&quot;1.0&quot; /&gt;</flowPara><flowPara
+         id="flowPara3027">          &lt;attnum name=&quot;height&quot; unit=&quot;m&quot; val=&quot;0.1&quot; /&gt;</flowPara><flowPara
+         id="flowPara3029">          &lt;attstr name=&quot;surface&quot; val=&quot;curb-aa-bw-l&quot; /&gt;</flowPara><flowPara
+         id="flowPara3031">          &lt;attstr name=&quot;style&quot; val=&quot;curb&quot; /&gt;</flowPara><flowPara
+         id="flowPara3033">        &lt;/section&gt;</flowPara><flowPara
+         id="flowPara3035">        &lt;!--End of left part--&gt;</flowPara><flowPara
+         id="flowPara3037">        &lt;!--Right part of segment--&gt;</flowPara><flowPara
+         id="flowPara3039">        &lt;section name=&quot;Right Side&quot;&gt;</flowPara><flowPara
+         id="flowPara3041">          &lt;attnum name=&quot;start width&quot; unit=&quot;m&quot; val=&quot;2.0&quot; /&gt;</flowPara><flowPara
+         id="flowPara3043">          &lt;attnum name=&quot;end width&quot; unit=&quot;m&quot; val=&quot;2.0&quot; /&gt;</flowPara><flowPara
+         id="flowPara3045">          &lt;attstr name=&quot;surface&quot; val=&quot;tr-road1&quot; /&gt;</flowPara><flowPara
+         id="flowPara3047">        &lt;/section&gt;</flowPara><flowPara
+         id="flowPara3049">        &lt;section name=&quot;Right Border&quot;&gt;</flowPara><flowPara
+         id="flowPara3051">          &lt;attnum name=&quot;width&quot; unit=&quot;m&quot; val=&quot;0.0&quot; /&gt;</flowPara><flowPara
+         id="flowPara3053">        &lt;/section&gt;</flowPara><flowPara
+         id="flowPara3055">        &lt;!--End of right part--&gt;</flowPara><flowPara
+         id="flowPara3057">      &lt;/section&gt;</flowPara></flowRoot>  </g>
+</svg>
